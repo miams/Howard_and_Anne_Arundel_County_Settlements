@@ -2,8 +2,6 @@ About this Repository
 
 
 
-
-
 # Contents
 
   Excel workbook with extracted information from the land patents, and Google Earth data files showing relevant locations and land patents associated with the settlement of Howard County. 
@@ -26,9 +24,7 @@ About this Repository
 # How to Use
 
 
-
 After the data files are opened in Google Earth, placemarks, plats, historic sites, cemeteries, and waterways will display as shown below. After the data files are opened in Google Earth, placemarks, plats, historic sites, cemeteries, and waterways will display as shown below. 
-
 
 
 Start by reading the pdf file below to learn more about how the files were created and how to load the .kml files into Google Earth, then download the zip file to a safe location. None of these files are executable but always defend against hacking!
@@ -46,10 +42,6 @@ Howard County Land Patents
 
 <table>
 <thead>
-td.fitwidth {
-    width: 1px;
-    white-space: nowrap;
-}
 <tr>
 <td><b>Land  Patent</b></td>
 <td class="fitwidth"><b>Description</b></td>
