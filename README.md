@@ -40,14 +40,15 @@ Contributions
 Howard County Land Patents
 *Post  Office - this is just a finding aid, many plats span multiple zip codes
 
-<table>
 
+<html>
 <style>
 td.fitwidth {
     width: 1px;
     white-space: nowrap;
 }
 </style>
+<table>
 <thead>
 <tr>
 <td><b>Land  Patent</b></td>
@@ -4971,3 +4972,4 @@ td.fitwidth {
 </tr>
 </tbody>
 </table>
+</html>
