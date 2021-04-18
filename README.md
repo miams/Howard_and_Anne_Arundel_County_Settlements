@@ -46,11 +46,15 @@ Howard County Land Patents
 
 <table>
 <thead>
+td.fitwidth {
+    width: 1px;
+    white-space: nowrap;
+}
 <tr>
-<td>Land  Patent</td>
-<td>Description</td>
-<td>*Post Office</td>
-<td>MD State Archives Survey</td>
+<td><b>Land  Patent</b></td>
+<td class="fitwidth"><b>Description</b></td>
+<td><b>*Post Office</b></td>
+<td><b>MD State Archives Survey</b></td>
 </tr>
 <tr>
 <td>A PIECE  BY ITSELF</td>
