@@ -41,6 +41,7 @@ Howard County Land Patents
 *Post  Office - this is just a finding aid, many plats span multiple zip codes
 
 <table>
+<link rel="stylesheet" href="style.css">
 <thead>
 <tr>
 <td><b>Land  Patent</b></td>
