@@ -41,40 +41,11 @@ To Learn More
 
 Contributions
 
+Howard County Land Patents
+*Post  Office - this is just a finding aid, many plats span multiple zip codes
+
 <table>
 <thead>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Howard County Land Patents</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>*Post  Office - this is just a finding aid, many plats span multiple zip codes</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr>
 <td>Land  Patent</td>
 <td>Description</td>
